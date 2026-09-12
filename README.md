@@ -18,7 +18,7 @@ One of the first repos here is a Marketing automation guide step by step publish
 ## 📫 How to reach me:
 Just reach out to me on Linkedin or use the contact form [here](https://www.emailmonday.com/contact/)
 
-## ⚡ Fun fact: ...
+## ⚡ Fun facts: ...
 I once wrote a dutch bestseller (yes, a book) on email marketing, called emailmarketing in 60 minutes.
 
 <!--
