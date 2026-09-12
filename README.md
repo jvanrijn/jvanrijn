@@ -10,20 +10,21 @@ One of the first repos here is a Marketing automation guide step by step publish
 
 ## 💬 Ask me about ...
 `Email marketing` - `marketing automation` `CRM` `Software selection` 
-`Tai Chi` `weight training` `The beautifull city of Houten`
-`Drinking big cups of Coffee in the morning and not being ashamed of it`.
+`Tai Chi` `Weight training` `Biking`
+`The beautifull city of Houten` ``
+`Drinking big cups of Coffee in the morning and not being ashamed of it`
 `How to post on Linkedin daily without going crazy`
 
 ## 📫 How to reach me:
-Just reach out to me on Linkedin or use the contact form [here] (https://www.emailmonday.com/contact/)
+Just reach out to me on Linkedin or use the contact form [here](https://www.emailmonday.com/contact/)
 
-## 📫 How to reach me:
+## ⚡ Fun fact: ...
+I once wrote a dutch bestseller (yes, a book) on email marketing, called emailmarketing in 60 minutes.
 
 <!--
 **jvanrijn/jvanrijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
