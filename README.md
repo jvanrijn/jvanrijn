@@ -5,7 +5,7 @@ You can check out my (hopefully up to date) [latest bio ](https://www.emailmonda
 And of course follow my feed on Linkedin @ [Jordie van Rijn on Linkedin](https://www.linkedin.com/in/jvrijn/)
 
 ## 🔭 I’m currently working on ...
-Renewing our marTech selection site: [Email Vendor Selection](https://www.emailvendorselection.com/). 
+Renewing our marTech selection site: [Email Vendor Selection](https://www.emailvendorselection.com/).   
 One of the first repos here is a Marketing automation guide step by step published on [www.marketing-automation-guide.com ](www.marketing-automation-guide.com ) (repo)
 
 ## 💬 Ask me about ...
@@ -15,7 +15,9 @@ One of the first repos here is a Marketing automation guide step by step publish
 `How to post on Linkedin daily without going crazy`
 
 ## 📫 How to reach me:
-Just go to the contact form here at 
+Just reach out to me on Linkedin or use the contact form [here] (https://www.emailmonday.com/contact/)
+
+## 📫 How to reach me:
 
 <!--
 **jvanrijn/jvanrijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
