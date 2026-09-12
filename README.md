@@ -6,7 +6,7 @@ And of course follow my feed on Linkedin @ [Jordie van Rijn on Linkedin](https:/
 
 ## 🔭 I’m currently working on ...
 Renewing our marTech selection site: [Email Vendor Selection](https://www.emailvendorselection.com/).   
-One of the first repos here is a Marketing automation guide step by step published on [www.marketing-automation-guide.com ](www.marketing-automation-guide.com ) ([repo](https://github.com/jvanrijn/marketingautomation))
+One of the first repos here is a Marketing automation guide step by step published on [www.marketing-automation-guide.com](https://www.marketing-automation-guide.com) ([repo](https://github.com/jvanrijn/marketingautomation))
 
 ## 💬 Ask me about ...
 `Email marketing` - `marketing automation` `CRM` `Software selection` 
