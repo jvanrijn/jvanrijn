@@ -23,6 +23,5 @@ Just reach out to me on Linkedin or use the contact form [here](https://www.emai
 
 ## ⚡ Fun facts: ...
 I once wrote a dutch bestseller (yes, a book) on email marketing, called emailmarketing in 60 minutes.
-
-![Alt](/footer-divider.png?raw=true "Optional Title")
 <!-- **jvanrijn/jvanrijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![Alt](/footer-divider.png?raw=true)
