@@ -13,11 +13,11 @@ One of the first repos here is a step by step Marketing automation guide publish
 
 <table align="center"><tr><td>
   <a href="https://www.marketing-automation-guide.com/" target="_blank">
-    <img src="/marketing-automation-guide.png" width="412px"/>
+    <img src="/marketing-automation-guide.jpg" width="412px"/>
     
 Marketing automation guide</a></td><td>
   <a href="https://www.emailvendorselection.com/" target="_blank">
-    <img src="/evs.png" width="412px"/>
+    <img src="/evs.jpg" width="412px"/>
     
 www.emailvendorselection.com </a></td></tr>
 </table>
