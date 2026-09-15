@@ -11,6 +11,17 @@ Renewing our marTech selection site: [Email Vendor Selection](https://www.emailv
 
 One of the first repos here is a step by step Marketing automation guide published on [www.marketing-automation-guide.com](https://www.marketing-automation-guide.com) ([repo](https://github.com/jvanrijn/marketingautomation))
 
+<table align="center"><tr><td>
+  <a href="https://www.marketing-automation-guide.com/" target="_blank">
+    <img src="/marketing-automation-guide.png" width="412px"/>
+    
+Marketing automation guide</a></td><td>
+  <a href="https://www.emailvendorselection.com/" target="_blank">
+    <img src="/evs.png" width="412px"/>
+    
+www.emailvendorselection.com </a></td></tr>
+</table>
+
 ## 💬 Ask me about ...
 `Email marketing` - `marketing automation` `CRM` `Software selection` 
 `Tai Chi` `Weight training` `Biking`
@@ -20,6 +31,7 @@ One of the first repos here is a step by step Marketing automation guide publish
 
 ## 📫 How to reach me:
 Just reach out to me on Linkedin or use the contact form [here](https://www.emailmonday.com/contact/)
+
 
 ## ⚡ Fun facts: ...
 I once wrote a dutch bestseller (yes, a book) on email marketing, called emailmarketing in 60 minutes.
