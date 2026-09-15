@@ -11,15 +11,11 @@ Renewing our marTech selection site: [Email Vendor Selection](https://www.emailv
 
 One of the first repos here is a step by step Marketing automation guide published on [www.marketing-automation-guide.com](https://www.marketing-automation-guide.com) ([repo](https://github.com/jvanrijn/marketingautomation))
 
-<table align="center"><tr><td>
-  <a href="https://www.marketing-automation-guide.com/" target="_blank">
-    <img src="/marketing-automation-guide.jpg" width="412px"/>
-    
-Marketing automation guide</a></td><td>
-  <a href="https://www.emailvendorselection.com/" target="_blank">
-    <img src="/evs.jpg" width="412px"/>
-    
-www.emailvendorselection.com </a></td></tr>
+<table align="center" style="border:none"><tr><td><a href="https://www.marketing-automation-guide.com/" target="_blank">
+<img src="/marketing-automation-guide.jpg" width="412px"align="center" /></a>
+<a href="https://www.marketing-automation-guide.com/" target="_blank">Marketing automation guide</a></td><td>
+  <a href="https://www.emailvendorselection.com/" target="_blank"><img src="/evs.jpg" width="412px"/</a>
+    <a href="https://www.emailvendorselection.com/">www.emailvendorselection.com </a></td></tr>
 </table>
 
 ## 💬 Ask me about ...
